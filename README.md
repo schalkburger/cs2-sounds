@@ -7,7 +7,7 @@ List of sounds extracted from `pak01_dir.vpk`
 To play a sound you can use the `play` command e.g.
 
 ```
-play sounds/buttons/blip1
+play \sounds\buttons\blip1
 ````
 
 
